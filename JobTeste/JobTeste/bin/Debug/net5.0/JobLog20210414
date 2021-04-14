@@ -1,0 +1,600 @@
+
+Registro : 01:04:18 quarta-feira, 14 de abril de 2021
+  :
+  :Inicio do Job
+------------------------------------
+
+Registro : 01:04:18 quarta-feira, 14 de abril de 2021
+  :
+  :Fim Job
+------------------------------------
+
+Registro : 01:06:34 quarta-feira, 14 de abril de 2021
+  :
+  :Inicio do Job
+------------------------------------
+
+Registro : 01:06:34 quarta-feira, 14 de abril de 2021
+  :
+  :Fim Job
+------------------------------------
+
+Registro : 02:07:59 quarta-feira, 14 de abril de 2021
+  :
+  :Inicio do Job
+------------------------------------
+
+Registro : 02:08:02 quarta-feira, 14 de abril de 2021
+  :
+  :Chamada da API GetItemFila
+------------------------------------
+
+Registro : 02:08:42 quarta-feira, 14 de abril de 2021
+  :
+  :Inicio do Job
+------------------------------------
+
+Registro : 02:08:45 quarta-feira, 14 de abril de 2021
+  :
+  :Chamada da API GetItemFila
+------------------------------------
+
+Registro : 02:10:15 quarta-feira, 14 de abril de 2021
+  :
+  :Inicio do Job
+------------------------------------
+
+Registro : 02:10:23 quarta-feira, 14 de abril de 2021
+  :
+  :Chamada da API GetItemFila
+------------------------------------
+
+Registro : 02:10:48 quarta-feira, 14 de abril de 2021
+  :
+  :Inicio do Job
+------------------------------------
+
+Registro : 02:10:48 quarta-feira, 14 de abril de 2021
+  :
+  :Chamada da API GetItemFila
+------------------------------------
+
+Registro : 02:25:40 quarta-feira, 14 de abril de 2021
+  :
+  :Inicio do Job
+------------------------------------
+
+Registro : 02:25:40 quarta-feira, 14 de abril de 2021
+  :
+  :Chamada da API GetItemFila
+------------------------------------
+
+Registro : 02:26:03 quarta-feira, 14 de abril de 2021
+  :
+  :Tempo total de Processamento dos dados: 00:00:23.1418088
+------------------------------------
+
+Registro : 02:26:03 quarta-feira, 14 de abril de 2021
+  :
+  :Fim Job - 02:26:03
+------------------------------------
+
+Registro : 02:37:34 quarta-feira, 14 de abril de 2021
+  :
+  :Inicio do Job
+------------------------------------
+
+Registro : 02:37:34 quarta-feira, 14 de abril de 2021
+  :
+  :Chamada da API GetItemFila
+------------------------------------
+
+Registro : 02:37:43 quarta-feira, 14 de abril de 2021
+  :
+  :Erro ao executar a API
+------------------------------------
+
+Registro : 02:37:43 quarta-feira, 14 de abril de 2021
+  :
+  :Tempo total de Processamento dos dados: 00:00:09.4554016
+------------------------------------
+
+Registro : 02:37:43 quarta-feira, 14 de abril de 2021
+  :
+  :Fim Job - 02:37:43
+------------------------------------
+
+Registro : 02:38:04 quarta-feira, 14 de abril de 2021
+  :
+  :Inicio do Job
+------------------------------------
+
+Registro : 02:38:04 quarta-feira, 14 de abril de 2021
+  :
+  :Chamada da API GetItemFila
+------------------------------------
+
+Registro : 02:38:09 quarta-feira, 14 de abril de 2021
+  :
+  :Erro ao executar a API
+------------------------------------
+
+Registro : 02:38:09 quarta-feira, 14 de abril de 2021
+  :
+  :Tempo total de Processamento dos dados: 00:00:04.5767311
+------------------------------------
+
+Registro : 02:38:09 quarta-feira, 14 de abril de 2021
+  :
+  :Fim Job - 02:38:09
+------------------------------------
+
+Registro : 02:38:20 quarta-feira, 14 de abril de 2021
+  :
+  :Inicio do Job
+------------------------------------
+
+Registro : 02:38:20 quarta-feira, 14 de abril de 2021
+  :
+  :Chamada da API GetItemFila
+------------------------------------
+
+Registro : 02:38:45 quarta-feira, 14 de abril de 2021
+  :
+  :Inicio do Job
+------------------------------------
+
+Registro : 02:38:45 quarta-feira, 14 de abril de 2021
+  :
+  :Chamada da API GetItemFila
+------------------------------------
+
+Registro : 02:38:58 quarta-feira, 14 de abril de 2021
+  :
+  :Chamada da API GetMoedas
+------------------------------------
+
+Registro : 02:39:05 quarta-feira, 14 de abril de 2021
+  :
+  :Tempo total de Processamento dos dados: 00:00:19.7609895
+------------------------------------
+
+Registro : 02:39:05 quarta-feira, 14 de abril de 2021
+  :
+  :Fim Job - 02:39:05
+------------------------------------
+
+Registro : 03:14:16 quarta-feira, 14 de abril de 2021
+  :
+  :Inicio do Job
+------------------------------------
+
+Registro : 03:14:16 quarta-feira, 14 de abril de 2021
+  :
+  :Chamada da API GetItemFila
+------------------------------------
+
+Registro : 03:14:16 quarta-feira, 14 de abril de 2021
+  :
+  :Chamada da API GetMoedas
+------------------------------------
+
+Registro : 03:14:16 quarta-feira, 14 de abril de 2021
+  :
+  :Realizando a leitura do arquivo DadosMoeda
+------------------------------------
+
+Registro : 03:14:31 quarta-feira, 14 de abril de 2021
+  :
+  :Realizando a leitura do arquivo DadosCotacao
+------------------------------------
+
+Registro : 03:15:05 quarta-feira, 14 de abril de 2021
+  :
+  :Erro ao executar a API
+------------------------------------
+
+Registro : 03:15:05 quarta-feira, 14 de abril de 2021
+  :
+  :Tempo total de Processamento dos dados: 00:00:49.2816882
+------------------------------------
+
+Registro : 03:15:05 quarta-feira, 14 de abril de 2021
+  :
+  :Fim Job - 03:15:05
+------------------------------------
+
+Registro : 03:15:11 quarta-feira, 14 de abril de 2021
+  :
+  :Inicio do Job
+------------------------------------
+
+Registro : 03:15:11 quarta-feira, 14 de abril de 2021
+  :
+  :Chamada da API GetItemFila
+------------------------------------
+
+Registro : 03:15:12 quarta-feira, 14 de abril de 2021
+  :
+  :Chamada da API GetMoedas
+------------------------------------
+
+Registro : 03:15:12 quarta-feira, 14 de abril de 2021
+  :
+  :Realizando a leitura do arquivo DadosMoeda
+------------------------------------
+
+Registro : 03:15:46 quarta-feira, 14 de abril de 2021
+  :
+  :Realizando a leitura do arquivo DadosCotacao
+------------------------------------
+
+Registro : 03:16:12 quarta-feira, 14 de abril de 2021
+  :
+  :Erro ao executar a API
+------------------------------------
+
+Registro : 03:16:12 quarta-feira, 14 de abril de 2021
+  :
+  :Tempo total de Processamento dos dados: 00:01:01.2038471
+------------------------------------
+
+Registro : 03:16:12 quarta-feira, 14 de abril de 2021
+  :
+  :Fim Job - 03:16:12
+------------------------------------
+
+Registro : 03:27:41 quarta-feira, 14 de abril de 2021
+  :
+  :Inicio do Job
+------------------------------------
+
+Registro : 03:27:41 quarta-feira, 14 de abril de 2021
+  :
+  :Chamada da API GetItemFila
+------------------------------------
+
+Registro : 03:28:16 quarta-feira, 14 de abril de 2021
+  :
+  :Inicio do Job
+------------------------------------
+
+Registro : 03:28:16 quarta-feira, 14 de abril de 2021
+  :
+  :Chamada da API GetItemFila
+------------------------------------
+
+Registro : 03:28:17 quarta-feira, 14 de abril de 2021
+  :
+  :Chamada da API GetMoedas
+------------------------------------
+
+Registro : 03:28:17 quarta-feira, 14 de abril de 2021
+  :
+  :Realizando a leitura do arquivo DadosMoeda
+------------------------------------
+
+Registro : 03:28:18 quarta-feira, 14 de abril de 2021
+  :
+  :Realizando a leitura do arquivo DadosCotacao
+------------------------------------
+
+Registro : 03:28:18 quarta-feira, 14 de abril de 2021
+  :
+  :Tempo total de Processamento dos dados: 00:00:02.0911526
+------------------------------------
+
+Registro : 03:28:18 quarta-feira, 14 de abril de 2021
+  :
+  :Fim Job - 03:28:18
+------------------------------------
+
+Registro : 03:28:27 quarta-feira, 14 de abril de 2021
+  :
+  :Inicio do Job
+------------------------------------
+
+Registro : 03:28:27 quarta-feira, 14 de abril de 2021
+  :
+  :Chamada da API GetItemFila
+------------------------------------
+
+Registro : 03:28:28 quarta-feira, 14 de abril de 2021
+  :
+  :Chamada da API GetMoedas
+------------------------------------
+
+Registro : 03:28:28 quarta-feira, 14 de abril de 2021
+  :
+  :Realizando a leitura do arquivo DadosMoeda
+------------------------------------
+
+Registro : 03:28:29 quarta-feira, 14 de abril de 2021
+  :
+  :Realizando a leitura do arquivo DadosCotacao
+------------------------------------
+
+Registro : 03:28:39 quarta-feira, 14 de abril de 2021
+  :
+  :Tempo total de Processamento dos dados: 00:00:11.4146745
+------------------------------------
+
+Registro : 03:28:39 quarta-feira, 14 de abril de 2021
+  :
+  :Fim Job - 03:28:39
+------------------------------------
+
+Registro : 03:39:31 quarta-feira, 14 de abril de 2021
+  :
+  :Inicio do Job
+------------------------------------
+
+Registro : 03:39:31 quarta-feira, 14 de abril de 2021
+  :
+  :Chamada da API GetItemFila
+------------------------------------
+
+Registro : 03:39:31 quarta-feira, 14 de abril de 2021
+  :
+  :Chamada da API GetMoedas
+------------------------------------
+
+Registro : 03:39:31 quarta-feira, 14 de abril de 2021
+  :
+  :Realizando a leitura do arquivo DadosMoeda
+------------------------------------
+
+Registro : 03:39:32 quarta-feira, 14 de abril de 2021
+  :
+  :Realizando a leitura do arquivo DadosCotacao
+------------------------------------
+
+Registro : 03:39:36 quarta-feira, 14 de abril de 2021
+  :
+  :Inicio do processamento do arquivo de retorno CSV
+------------------------------------
+
+Registro : 03:39:36 quarta-feira, 14 de abril de 2021
+  :
+  :Final do processamento do arquivo de retorno CSV
+------------------------------------
+
+Registro : 03:39:36 quarta-feira, 14 de abril de 2021
+  :
+  :Tempo total de Processamento dos dados: 00:00:05.3949397
+------------------------------------
+
+Registro : 03:39:36 quarta-feira, 14 de abril de 2021
+  :
+  :Fim Job - 03:39:36
+------------------------------------
+
+Registro : 03:41:48 quarta-feira, 14 de abril de 2021
+  :
+  :Inicio do Job
+------------------------------------
+
+Registro : 03:41:48 quarta-feira, 14 de abril de 2021
+  :
+  :Chamada da API GetItemFila
+------------------------------------
+
+Registro : 03:41:51 quarta-feira, 14 de abril de 2021
+  :
+  :Chamada da API GetMoedas
+------------------------------------
+
+Registro : 03:41:51 quarta-feira, 14 de abril de 2021
+  :
+  :Realizando a leitura do arquivo DadosMoeda
+------------------------------------
+
+Registro : 03:41:51 quarta-feira, 14 de abril de 2021
+  :
+  :Realizando a leitura do arquivo DadosCotacao
+------------------------------------
+
+Registro : 03:41:52 quarta-feira, 14 de abril de 2021
+  :
+  :Inicio do processamento do arquivo de retorno CSV
+------------------------------------
+
+Registro : 03:41:52 quarta-feira, 14 de abril de 2021
+  :
+  :Final do processamento do arquivo de retorno CSV
+------------------------------------
+
+Registro : 03:41:52 quarta-feira, 14 de abril de 2021
+  :
+  :Tempo total de Processamento dos dados: 00:00:03.5658526
+------------------------------------
+
+Registro : 03:41:52 quarta-feira, 14 de abril de 2021
+  :
+  :Fim Job - 03:41:52
+------------------------------------
+
+Registro : 03:42:07 quarta-feira, 14 de abril de 2021
+  :
+  :Inicio do Job
+------------------------------------
+
+Registro : 03:42:07 quarta-feira, 14 de abril de 2021
+  :
+  :Chamada da API GetItemFila
+------------------------------------
+
+Registro : 03:42:07 quarta-feira, 14 de abril de 2021
+  :
+  :Chamada da API GetMoedas
+------------------------------------
+
+Registro : 03:42:07 quarta-feira, 14 de abril de 2021
+  :
+  :Realizando a leitura do arquivo DadosMoeda
+------------------------------------
+
+Registro : 03:42:08 quarta-feira, 14 de abril de 2021
+  :
+  :Realizando a leitura do arquivo DadosCotacao
+------------------------------------
+
+Registro : 03:42:09 quarta-feira, 14 de abril de 2021
+  :
+  :Inicio do processamento do arquivo de retorno CSV
+------------------------------------
+
+Registro : 03:42:09 quarta-feira, 14 de abril de 2021
+  :
+  :Final do processamento do arquivo de retorno CSV
+------------------------------------
+
+Registro : 03:42:09 quarta-feira, 14 de abril de 2021
+  :
+  :Tempo total de Processamento dos dados: 00:00:01.9977577
+------------------------------------
+
+Registro : 03:42:09 quarta-feira, 14 de abril de 2021
+  :
+  :Fim Job - 03:42:09
+------------------------------------
+
+Registro : 03:42:12 quarta-feira, 14 de abril de 2021
+  :
+  :Inicio do Job
+------------------------------------
+
+Registro : 03:42:12 quarta-feira, 14 de abril de 2021
+  :
+  :Chamada da API GetItemFila
+------------------------------------
+
+Registro : 03:42:13 quarta-feira, 14 de abril de 2021
+  :
+  :Chamada da API GetMoedas
+------------------------------------
+
+Registro : 03:42:13 quarta-feira, 14 de abril de 2021
+  :
+  :Realizando a leitura do arquivo DadosMoeda
+------------------------------------
+
+Registro : 03:46:01 quarta-feira, 14 de abril de 2021
+  :
+  :Inicio do Job
+------------------------------------
+
+Registro : 03:46:01 quarta-feira, 14 de abril de 2021
+  :
+  :Chamada da API GetItemFila
+------------------------------------
+
+Registro : 03:46:02 quarta-feira, 14 de abril de 2021
+  :
+  :Chamada da API GetMoedas
+------------------------------------
+
+Registro : 03:46:02 quarta-feira, 14 de abril de 2021
+  :
+  :Realizando a leitura do arquivo DadosMoeda
+------------------------------------
+
+Registro : 03:46:02 quarta-feira, 14 de abril de 2021
+  :
+  :Realizando a leitura do arquivo DadosCotacao
+------------------------------------
+
+Registro : 03:46:03 quarta-feira, 14 de abril de 2021
+  :
+  :Inicio do processamento do arquivo de retorno CSV
+------------------------------------
+
+Registro : 03:46:47 quarta-feira, 14 de abril de 2021
+  :
+  :Inicio do Job
+------------------------------------
+
+Registro : 03:46:47 quarta-feira, 14 de abril de 2021
+  :
+  :Chamada da API GetItemFila
+------------------------------------
+
+Registro : 03:46:47 quarta-feira, 14 de abril de 2021
+  :
+  :Chamada da API GetMoedas
+------------------------------------
+
+Registro : 03:46:47 quarta-feira, 14 de abril de 2021
+  :
+  :Realizando a leitura do arquivo DadosMoeda
+------------------------------------
+
+Registro : 03:46:48 quarta-feira, 14 de abril de 2021
+  :
+  :Realizando a leitura do arquivo DadosCotacao
+------------------------------------
+
+Registro : 03:46:49 quarta-feira, 14 de abril de 2021
+  :
+  :Inicio do processamento do arquivo de retorno CSV
+------------------------------------
+
+Registro : 03:46:49 quarta-feira, 14 de abril de 2021
+  :
+  :Final do processamento do arquivo de retorno CSV
+------------------------------------
+
+Registro : 03:46:49 quarta-feira, 14 de abril de 2021
+  :
+  :Tempo total de Processamento dos dados: 00:00:02.1283664
+------------------------------------
+
+Registro : 03:46:49 quarta-feira, 14 de abril de 2021
+  :
+  :Fim Job - 03:46:49
+------------------------------------
+
+Registro : 03:47:06 quarta-feira, 14 de abril de 2021
+  :
+  :Inicio do Job
+------------------------------------
+
+Registro : 03:47:06 quarta-feira, 14 de abril de 2021
+  :
+  :Chamada da API GetItemFila
+------------------------------------
+
+Registro : 03:47:07 quarta-feira, 14 de abril de 2021
+  :
+  :Chamada da API GetMoedas
+------------------------------------
+
+Registro : 03:47:07 quarta-feira, 14 de abril de 2021
+  :
+  :Realizando a leitura do arquivo DadosMoeda
+------------------------------------
+
+Registro : 03:47:07 quarta-feira, 14 de abril de 2021
+  :
+  :Realizando a leitura do arquivo DadosCotacao
+------------------------------------
+
+Registro : 03:47:08 quarta-feira, 14 de abril de 2021
+  :
+  :Inicio do processamento do arquivo de retorno CSV
+------------------------------------
+
+Registro : 03:47:08 quarta-feira, 14 de abril de 2021
+  :
+  :Final do processamento do arquivo de retorno CSV
+------------------------------------
+
+Registro : 03:47:08 quarta-feira, 14 de abril de 2021
+  :
+  :Tempo total de Processamento dos dados: 00:00:02.0826546
+------------------------------------
+
+Registro : 03:47:08 quarta-feira, 14 de abril de 2021
+  :
+  :Fim Job - 03:47:08
+------------------------------------
